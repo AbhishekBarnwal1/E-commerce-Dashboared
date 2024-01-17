@@ -1,0 +1,93 @@
+
+  .nav-ul li{
+    display: inline-block;
+    padding: 10px;
+    
+  }
+  .nav-ul{
+    background-color: skyblue;
+    margin: 0;
+    padding: 5px;
+    width: 100%;
+
+  }
+  .nav-ul li a{
+    color: #fff;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .footer{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color: skyblue;
+   
+  }
+  .inputBox{
+      display: block;
+      margin: 25px;
+      padding: 7px;
+      width: 300px;
+      border: 1px solid skyblue;
+  }
+  .sign{
+    margin-left: 30%;
+  }
+  .product{
+    margin-left: 30%;
+  }
+  .login{
+    margin-left: 30%;
+    margin-top: 100px;
+  }
+  .logo{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    float: left;
+    margin-top: 3px;
+    margin-left: 5px;
+
+  }
+  .nav-right{
+    text-align: right;
+  }
+  .appbutton{
+    margin: 25px;
+    padding: 10px;
+    width: 150px;
+    background-color: skyblue;
+    border: 1px solid;
+    cursor: pointer;
+    
+    justify-items: center;
+  }
+  .invalid-input{
+    display: block;
+    color: red;
+    margin-top: -20px;
+    margin-left: 20px;
+  }
+  .product-list {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .product-list ul li {
+    display: inline-block;
+    width: 150px;
+    border: 1px solid skyblue;
+    padding: 5px;
+  }
+  
+  .product-list ul{
+    margin: 0;
+  }
+  .search-product-box {
+    width: 400px;
+    margin: 20px;
+    height: 38px;
+    padding-left: 30px;
+    border: solid 1px skyblue;
+  }
